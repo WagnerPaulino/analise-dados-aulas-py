@@ -1,0 +1,4 @@
+scipy==1
+jupyter==1
+pandas==1
+matplotlib==3
